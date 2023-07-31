@@ -17,13 +17,15 @@ label {
 
 input {
   font-size: 32px;
-  color: #f6f8fa;
+  font-weight: 400;
+  color: #79b8ff;
   padding: 15px;
   width: 100%;
   background-color: #26303c;
   border: none;
+  border-radius: 5px;
 }
 
 input:focus {
-  border: none;
+  outline: none;
 }
