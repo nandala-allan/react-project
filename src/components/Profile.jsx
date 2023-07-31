@@ -1,7 +1,13 @@
+import Header from './Header.jsx'
+import './components/Header.css'
+
+
 function Profile() {
     return (
         <>
-        <h1>my profile</h1></>
+            <Header />
+            <h1>my profile</h1>
+        </>
     )
 }
 

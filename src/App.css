@@ -4,9 +4,9 @@
   display: flex;
   flex-direction: column;
   gap: 35px;
-  width: 500px;
+  /* width: 500px; */
   text-align: center;
-  margin-top: 250px;
+  margin-top: 200px;
 }
 
 .octo-cat {

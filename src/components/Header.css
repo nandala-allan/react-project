@@ -1,0 +1,26 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+}
+
+.header-octo-cat {
+  font-size: 2rem;
+  color: #0070f3;
+}
+
+li {
+  list-style: none;
+}
+.nav-link {
+  display: flex;
+  gap: 10px;
+  color: #f6f8fa;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    color: #79b8ff;
+  }
+}
