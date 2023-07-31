@@ -1,8 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
 
 .search {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
   width: 500px;
   text-align: center;
+  margin-top: 250px;
+}
+
+.octo-cat {
+  font-size: 5rem;
+  color: #0070f3;
 }
 
 form {
@@ -21,6 +30,7 @@ input {
   font-size: 28px;
   font-weight: 400;
   color: #79b8ff;
+  text-align: center;
   padding: 15px;
   width: 100%;
   background-color: #26303c;

@@ -1,4 +1,6 @@
-// import
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faGithub } from '@fortawesome/free-solid-svg-icons'
+import { faGithub } from "@fortawesome/free-brands-svg-icons"
 import './App.css'
 
 function App() {
@@ -6,7 +8,7 @@ function App() {
 
   return (
     <div className='search'>
-    {/* <FontAwesomeIcon icon="fa-brands fa-github" /> */}
+    <FontAwesomeIcon icon={faGithub} className='octo-cat'/>
   
       <form>
       <label htmlFor="username">Find Github User Profile</label>
