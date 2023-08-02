@@ -2,7 +2,7 @@ import { useNavigate} from 'react-router-dom';
 import { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub } from "@fortawesome/free-brands-svg-icons"
-// import Profile from './components/Profile.jsx';
+
 
 import './App.css'
 
@@ -40,14 +40,3 @@ function App() {
 }
 
 export default App
-
-
-
-
-
-
-
-
-
-
-
