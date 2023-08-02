@@ -74,7 +74,9 @@
   min-height: 100vh;
 }
 
-.error h1 {
+.load h1 {
+  font-size: 3rem;
+  font-weight: 500;
   color: #f6f8fa;
   padding-bottom: 30px;
 }

@@ -23,7 +23,7 @@ const Profile = () => {
   }, [username]);
 
   if (!userDetails) {
-    return <div className='error'><h1>Loading</h1></div>;
+    return <div className='load'><h1>Loading</h1></div>;
   }
 
   return (
