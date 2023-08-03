@@ -31,7 +31,7 @@ function App() {
         <form onSubmit={searchUser}>
       <label htmlFor="username"> Search Github user profile</label>
       <input type="text" name="username"  onChange={handleChange}
-          value={username}/>
+          value={username} required/>
       </form>
     </div>
     </div>
