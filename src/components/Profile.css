@@ -32,6 +32,7 @@
   justify-content: space-between;
 }
 .user-information h3 {
+  font-size: 16px;
   color: #f6f8fa;
   font-weight: 400;
 }
@@ -39,7 +40,7 @@
 .cards {
   display: flex;
   padding: 10px;
-  gap: 20px;
+  gap: 15px;
 }
 
 .inner-cards {
@@ -79,4 +80,40 @@
   font-weight: 500;
   color: #f6f8fa;
   padding-bottom: 30px;
+}
+
+/* media queries */
+
+@media (max-width: 600px) {
+  .user-out-put {
+    padding-top: 50px;
+    width: 95%;
+    margin: auto;
+  }
+
+  .user-avatar {
+    width: 60%;
+  }
+
+  .user-information h3 {
+    font-size: 16px;
+    color: #f6f8fa;
+    font-weight: 400;
+  }
+
+  .cards {
+    flex-direction: column;
+    width: 100%;
+  }
+  .inner-cards {
+    width: 100%;
+  }
+
+  .inner-cards h3 {
+    font-size: 30px;
+  }
+
+  .load h1 {
+    font-size: 2rem;
+  }
 }

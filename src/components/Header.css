@@ -24,3 +24,9 @@ li {
     color: #79b8ff;
   }
 }
+
+@media (max-width: 600px) {
+  header {
+    padding: 0 20px;
+  }
+}
