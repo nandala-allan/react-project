@@ -9,9 +9,9 @@ In this project i managed to create routes using react router, I was also able t
 
 ### Screenshot
 
-![/home/allan/Documents/git-profile-finder/react-project/public/profile-screenshot_.png]
+![/public/profile-screenshot_.png]
 
-![/home/allan/Documents/git-profile-finder/react-project/public/screenshot_.png]
+![/public/screenshot_.png]
 
 ### Links
 
