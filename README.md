@@ -27,4 +27,5 @@ In this project i managed to create routes using react router, I was also able t
 
 ### Continued development
 
-I want to be able to write and understand react proficiently
+- I want to be able to write and understand react proficiently
+- Add more components
