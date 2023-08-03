@@ -9,9 +9,9 @@ In this project i managed to create routes using react router, I was also able t
 
 ### Screenshot
 
-![/public/profile-screenshot_.png]
+![./public/profile-screenshot.png](./public/profile-screenshot.png)
 
-![/public/screenshot_.png]
+![./public/screenshot.png](./public/screenshot.png)
 
 ### Links
 
